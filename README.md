@@ -1,10 +1,10 @@
 RadialMk2Cockpit
 ================
 
-Radial Mk2 Cockpit v.1.1
-last updated 9/30/14
+Radial Mk2 Cockpit v.1.2
+last updated 12/10/14
 
-This mod uses ModuleManager (tested with version 2.3.5) to make the Mk2 cockpit radially attachable.
+This mod uses ModuleManager (tested with version 2.5.1) to make the Mk2 cockpit radially attachable.
 
 
 
@@ -32,9 +32,12 @@ http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all
  
  
 Changelog:
+
+v1.2
+- adjustment of attachment nodes with 0.25 slight changes 
  
 v1.1
-It works
+- it works
 
 v1.0
-Included wrong file.
+- Included wrong file. sorry.
